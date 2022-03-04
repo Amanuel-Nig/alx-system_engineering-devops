@@ -1,2 +1,2 @@
 #!/bin/bash
-su chown betty hello
+id -un su chown betty hello
