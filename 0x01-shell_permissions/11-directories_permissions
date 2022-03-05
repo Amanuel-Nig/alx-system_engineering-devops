@@ -1,2 +1,2 @@
 #!/bin/bash
-file -type d | xarg chmod uog+x 
+find -type d | xarg chmod uog+x 
